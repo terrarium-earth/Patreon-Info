@@ -5,7 +5,8 @@
     "0fcfca0b-8b51-4e0b-8dcf-a9b03d38060c",
     "5bc426ea-0171-4fbf-bbe5-bd7c80c7adb0",
     "0177f90b-1352-4306-b22e-e26005965cc4",
-    "503450fc-72c2-4e87-8243-94e264977437"
+    "503450fc-72c2-4e87-8243-94e264977437",
+    "b37bee49-dc72-4270-8935-8ba841563548",
   ],
   "leveledPatrons": {
     "78a06298-7263-433f-8433-b4fe19d116f9": "SWAMP_HOPPER",
@@ -13,6 +14,7 @@
     "0fcfca0b-8b51-4e0b-8dcf-a9b03d38060c": "RED_APPLEFLY",
     "5bc426ea-0171-4fbf-bbe5-bd7c80c7adb0": "WHITE_FOX",
     "0177f90b-1352-4306-b22e-e26005965cc4": "SWAMP_HOPPER",
-    "503450fc-72c2-4e87-8243-94e264977437": "RED_APPLEFLY"
+    "503450fc-72c2-4e87-8243-94e264977437": "RED_APPLEFLY",
+    "b37bee49-dc72-4270-8935-8ba841563548": "SWAMP_HOPPER"
   }
 }
